@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "SAYONARA MAYBE",
+  "base_artist": "NOMELON NOLEMON",
+  "createdAt": "2025-12-04T14:29:17.703772Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SAYONARA MAYBE",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/01_SAYONARA_MAYBE_NOMELON_NOLEMON.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SAYONARA MAYBE",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/pl_01_SAYONARA_MAYBE_NOMELON_NOLEMON.txt"
+    }
+  ]
+}
